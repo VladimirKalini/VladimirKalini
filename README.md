@@ -9,7 +9,6 @@
 <!-- FRAMEWORKS -->
 ![React](https://img.shields.io/badge/_-React-black?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=black)
 ![React Native](https://img.shields.io/badge/_-React_Native-black?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=black)
-![Next.js](https://img.shields.io/badge/_-Next.js-black?style=for-the-badge&logo=next.js&labelColor=000000&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-black?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white)
 ![Vite](https://img.shields.io/badge/_-Vite-black?style=for-the-badge&logo=vite&labelColor=646CFF&logoColor=white)
 ![Django](https://img.shields.io/badge/_-Django-black?style=for-the-badge&logo=django&labelColor=092E20&logoColor=white)
