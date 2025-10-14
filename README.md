@@ -1,4 +1,4 @@
-![Header](https://media.istockphoto.com/id/2161177489/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C-%D0%B8-%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C.jpg?s=612x612&w=0&k=20&c=DWBz8OXCkM_HV9ov3TEOrZ01oIdaym3Fy5eGwDxN07c=)
+![Header](istockphoto-2161177489-612x612%20(1).jpg)
 ## 
 <!-- LANGUAGES -->
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E&logoColor=black)
